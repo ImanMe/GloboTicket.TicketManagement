@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMJayT3pUbN4K3RyD/BYlJ9qE+sOGUVCJXs43ZW16WjUZD7WNg50dWvy6USR6y2+5il5SyOK4YqOcfmw7uyz/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IMEMARPOUR\\source\\repos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.1.0\\fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

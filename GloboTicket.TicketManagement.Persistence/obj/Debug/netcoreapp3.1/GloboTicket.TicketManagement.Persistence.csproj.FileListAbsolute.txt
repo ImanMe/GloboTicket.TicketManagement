@@ -1,0 +1,14 @@
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Application.dll
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.dll
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Persistence.AssemblyInfo.cs
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Persistence.csprojAssemblyReference.cache
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Persistence.deps.json
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Persistence.dll
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Persistence.pdb
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Application.pdb
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Persistence.csproj.CopyComplete
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Persistence.dll
+C:\Users\IMEMARPOUR\source\repos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Persistence.pdb
